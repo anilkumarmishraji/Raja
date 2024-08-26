@@ -32,15 +32,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/rishabhops/alice",
+    "https://github.com/anilkumarmishraji/Raja.git",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/thanos_pro"
-SUPPORT_GROUP = "https://t.me/thanosprosss"
+SUPPORT_CHANNEL = "https://t.me/style_name_bio"
+SUPPORT_GROUP = "https://t.me/Friends_mastii"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "STRING_SESSION"
+STRING1 = "BQGhQ1cAm4BKxfZ6uQczDADZWUN-nLzf7pZrucopIHXXuSMtFeSud5OAQc4y1G4CbeCcp4Vf_qdhTRMv2LzHba378fLnn0s8FijYproN1hyqYHRFVkevJXxRWBVyTTOAy1UA_rzEdjI1MVuxNgPYiRi1g5xRHIxdOiGhVdliDMy5aGmQ-1OaVx-Qa1KY4_Y2P0anEMgs0CSl5ZeD5HEjdmzWv0shuVlf6f0ymIIKfy4DG718fjhlNoNM4MRAVSVC26CBuzcyKfUYtvmyHC69nYb4XR5IN3ipeVsivLDU_UV0Fa6I4S3Z0qog0HfrPZBzMBnejySj48WpkRsBInbh8TkDyRI4vAAAAAGu8hiyAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
