@@ -11,7 +11,7 @@ API_ID = 27345751
 API_HASH = "2f4074e9f5a56e99fd9ba562f2314523"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "7222494140:AAG0fcNb_OefTPv2YrbTQcYiBC-thyC_YDQ"
+BOT_TOKEN = "7513852402:AAG427iAWy5j-YVguk87brJd2lp4ycGD96o"
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = "mongodb+srv://hayibop613:Anil1234@cluster0.v2cxmsj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
@@ -19,7 +19,7 @@ MONGO_DB_URI = "mongodb+srv://hayibop613:Anil1234@cluster0.v2cxmsj.mongodb.net/?
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = -1002185119121
+LOG_GROUP_ID = -1002415605252
 
 # Get this value from @ultron2_robot on Telegram by /id
 OWNER_ID = 7282582221
